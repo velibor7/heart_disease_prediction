@@ -3,5 +3,7 @@
 College project for class Numeric algorithms and numeric software.
 
 todo:
-  - english comments
+  - better comments
   - better readme
+  - add images on jupyter notebook
+
