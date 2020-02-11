@@ -6,4 +6,4 @@ todo:
   - better comments
   - better readme
   - add images on jupyter notebook
-
+  - add more data visualisation
